@@ -1,4 +1,10 @@
 .article__content {
+
+  img {
+    @include box-shadow();
+    border-radius: map-get($base, border-radius);
+  }
+
   img.shadow, .shadow > img {
     @include box-shadow();
   }
