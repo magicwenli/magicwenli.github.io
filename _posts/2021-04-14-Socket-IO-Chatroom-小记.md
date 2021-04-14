@@ -11,6 +11,8 @@ tags:
 
 [这](https://github.com/magicwenli/SocketIO-Chat)是一个简单的在线聊天网站，注册用户可以和其他在线用户一对一聊天、文件传输（规划中）和语音聊天（规划中）。除此之外，用户还可以创建或加入特定名称的聊天室以开展群聊。
 
+<!--more-->
+
 <img src="https://i.loli.net/2021/04/14/ZwDMXc2pN7tLaKR.png" alt="image-20210414202413811" style="zoom: 40%;" />
 
 开发项目用到的有：
