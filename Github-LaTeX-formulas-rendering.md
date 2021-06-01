@@ -60,12 +60,12 @@ show_title: false
 <label for="input">Latex equation: </label>
 <br><textarea rows="10" cols="50" name="input"></textarea>
 <br><br>
-<button  class="button" onClick="toGithubRenderURL()">Encode to github render URL</button>
+<button  class="button button--secondary button--pill" onClick="toGithubRenderURL()">Encode to github render URL</button>
 <br><br>
 <label for="output">The URL is: </label>
 <input type="url" name="output">
 <br><br>
-<button  class="button" onClick="copyToClipboard()">Copy to Clipboard</button>
+<button  class="button button--secondary button--pill" onClick="copyToClipboard()">Copy to Clipboard</button>
 <br><br>
 <label for="result">The result is: </label>
 
